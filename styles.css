@@ -19,8 +19,13 @@ a{
 }
 
 @font-face {
-  font-family: mexcellentrg;
-  src: url(assets/mexcellentrg.otf);
+  font-family: 'Oi';
+  src: url('../assets/Oi-Regular.ttf') format('truetype');
+}
+
+h1 {
+  font-family: 'Oi';
+  font-size: 60px;
 }
 
 .button-container {
